@@ -13,6 +13,8 @@ When I'm not buried in research papers about neural networks, you can find me ti
 
 💡 Passionate about creating AI that's not just smart, but also responsible and accessible to everyone (and also writes my README for me).
 
+
+
 ## 🛠️ My Skills
 
 🧠 Machine Learning & AI  
