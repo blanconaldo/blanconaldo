@@ -1,4 +1,4 @@
-[![MasterHead]([your image link](https://www.druva.com/content/dam/druvaincprogram/blog/thumbnails/blog-understanding-neural-networks-through-visualization-post.jpg))]([[https://github.com/blanconaldo])
+[![MasterHead]([https://www.druva.com/content/dam/druvaincprogram/blog/thumbnails/blog-understanding-neural-networks-through-visualization-post.jpg]())]([[https://github.com/blanconaldo])
 ## 👋 Hi, I'm Youssef!
 I'm an AI student based in Germany, on a mission to teach computers how to see the world! 🌍
 
