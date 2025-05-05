@@ -13,7 +13,7 @@ When I'm not buried in research papers about neural networks, you can find me ti
 
 💡 Passionate about creating AI that's not just smart, but also responsible and accessible to everyone (and also writes my README for me).
 
-[![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=blanconaldo)](https://github.com/blanconaldo/github-readme-stats)
+## My Skills
 
 🧠 Machine Learning & AI  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
