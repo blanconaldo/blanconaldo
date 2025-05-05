@@ -1,4 +1,18 @@
-## Hi there 👋
+## 👋 Hi, I'm Youssef!
+I'm an AI student based in Germany, on a mission to teach computers how to see the world! 🌍
+
+When I'm not buried in research papers about neural networks, you can find me tinkering with deep learning models and trying to convince my computer vision algorithms that my coffee mug is not, in fact, a teapot. ☕
+
+🔭 Currently exploring the fascinating world of computer vision, where every pixel tells a story and every image is an adventure waiting to be decoded.
+
+🧪 Experimenting with convolutional neural networks by day, dreaming in tensors by night.
+
+🌱 Learning something new every day - whether it's a cutting-edge AI technique or how to explain to non-tech friends why I get excited about gradient descent.
+
+💡 Passionate about creating AI that's not just smart, but also responsible and accessible to everyone (and also writes my README for me).
+
+[![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=blanconaldo)](https://github.com/blanconaldo/github-readme-stats)
+
 🧠 Machine Learning & AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
