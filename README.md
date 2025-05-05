@@ -13,7 +13,7 @@ When I'm not buried in research papers about neural networks, you can find me ti
 
 [![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=blanconaldo)](https://github.com/blanconaldo/github-readme-stats)
 
-🧠 Machine Learning & AI
+🧠 Machine Learning & AI  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
