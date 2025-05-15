@@ -1,7 +1,7 @@
 <img align="right" alt="Coding" width="400" src="https://www.druva.com/content/dam/druvaincprogram/blog/thumbnails/blog-understanding-neural-networks-through-visualization-post.jpg">  
 
 ## 👋 Hi, I'm Youssef!
-![Visit my Portfolio Page](https://youssef-mohamed.vercel.app/)
+[Visit my Portfolio Page](https://youssef-mohamed.vercel.app/)
 
 I'm an AI student based in Germany, on a mission to teach computers how to see the world! 🌍
 
@@ -64,7 +64,7 @@ When I'm not buried in research papers about neural networks, you can find me ti
 
 ## 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-algohary-37495834a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-mohamed-37495834a/)
 [![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssefalgohary52@gmail.com)
 
 
