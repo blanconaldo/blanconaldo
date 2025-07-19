@@ -74,6 +74,29 @@ When I'm not buried in research papers, you can find me building full-stack appl
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=blanconaldo&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=blanconaldo&theme=radical)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blanconaldo&layout=compact&theme=radical)
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=blanconaldo&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=blanconaldo&theme=react-dark)
+
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=blanconaldo&color=blueviolet)
+
+
 ## 📬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-mohamed-37495834a/)
