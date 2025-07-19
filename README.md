@@ -90,7 +90,7 @@ When I'm not buried in research papers, you can find me building full-stack appl
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=blanconaldo&theme=react-dark)
+[![Youssef's Github Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=blanconaldo)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
