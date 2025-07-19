@@ -56,7 +56,7 @@ When I'm not buried in research papers, you can find me building full-stack appl
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Genshin](https://img.shields.io/badge/Genshin-FFD700?style=for-the-badge&logo=genshin-impact&logoColor=white)
+![Gherkin](https://img.shields.io/badge/Gherkin-FFD700?style=for-the-badge&logo=genshin-impact&logoColor=white)
 
 🔄 Version Control & CI/CD  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -92,9 +92,6 @@ When I'm not buried in research papers, you can find me building full-stack appl
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=blanconaldo&theme=react-dark)
 
-## 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=blanconaldo&color=blueviolet)
 
 
 ## 📬 Connect With Me
