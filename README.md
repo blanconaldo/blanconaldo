@@ -13,6 +13,8 @@ When I'm not buried in research papers, you can find me building full-stack appl
 
 🌱 Learning something new every day - whether it's a cutting-edge AI technique or how to optimize CI/CD pipelines without losing my sanity.
 
+☁️ Juggling between AWS and Azure services, where my applications live rent-free (well, not exactly free) in the cloud. Sometimes I whisper "scale horizontally" to them and watch the magic happen.
+
 💡 Passionate about creating technology that's not just smart, but also responsible and accessible to everyone (and also writes my READMEs for me).
 
 ## 🛠️ My Skills
